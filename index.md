@@ -23,6 +23,7 @@
 
 ##### Notebooks
 - [Notebook 1: Basic Classification](https://github.com/QuadV/QuadV.github.io/blob/master/work/1BasicClassification.html)
+- <a href="https://github.com/QuadV/QuadV.github.io/blob/master/work/1BasicClassification.html" target="_blank">Notebook 1: Basic Classification</a>
 - [Notebook 2: Basic Text Classification](https://github.com/QuadV/QuadV.github.io/blob/master/work/2BasicTextClassification.html)
 - [Notebook 3: Anime Recommendations by Genre](https://github.com/QuadV/QuadV.github.io/blob/master/work/AnimeRecommendationsByGenre.html)
 - [Notebook 4: Baby Name Analysis](https://github.com/QuadV/QuadV.github.io/blob/master/work/BabyNamesAnalysis.html)
