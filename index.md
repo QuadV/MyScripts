@@ -1,3 +1,7 @@
+###### *Closing the gap between new ideas and implementation...*
+
+![alt text](assets/images/main_idea.png)
+
 
 ##### Blogs
 - [BERT for Agriculture Domain](https://medium.com/@vionaquadros/bert-for-agriculture-domain-f655d80c7da4)
@@ -26,4 +30,7 @@
 - [Notebook 6: Linear Discriminant Analysis](https://github.com/QuadV/QuadV.github.io/blob/master/work/LDA_iPython.html)
 - [Notebook 7: Principal Component Analysis](https://github.com/QuadV/QuadV.github.io/blob/master/work/PCA_iPython.html)
 - [Notebook 8: Single Layer Neural Network](https://github.com/QuadV/QuadV.github.io/blob/master/work/SingleLayerNN.html)
+
+##### Repos
+- [Agriculture Datasets Creation for downstream fine-tuning tasks](https://github.com/Recobo-ai/agriculture_datasets)
 
