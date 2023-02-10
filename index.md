@@ -1,7 +1,3 @@
-######_*Closing the gap between new ideas and implementation...*_
-
-![alt text](assets/images.png)
-
 
 ##### Blogs
 - [BERT for Agriculture Domain](https://medium.com/@vionaquadros/bert-for-agriculture-domain-f655d80c7da4)
