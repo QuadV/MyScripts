@@ -7,8 +7,8 @@
 - [Document Layout Model - Getting the structure of your Document](https://medium.com/@vionaquadros/recobo-ai-cognitive-search-try-our-document-layout-model-642c87d42e6b)
 
 ##### Implementing Papers
-- [Attention Is All You Need](https://github.com/QuadV/ImplementingPapers/blob/main/AttentionIsAllYouNeed.ipynb)
-- [Sequence To Sequence In Neural Networks](https://github.com/QuadV/ImplementingPapers/blob/main/SequenceToSequenceInNeuralNetworks.ipynb)
+- [Attention Is All You Need](https://github.com/QuadV/ImplementingPapers/blob/main/AttentionIsAllYouNeed.md)
+- [Sequence To Sequence In Neural Networks](https://github.com/QuadV/ImplementingPapers/blob/main/SequenceToSequenceInNeuralNetworks.md)
 
 ##### Base ML Implementations
 - [Single Layer Neural Network Using Python](https://github.com/QuadV/Base-ML/blob/master/verBasicNN_1.md)
